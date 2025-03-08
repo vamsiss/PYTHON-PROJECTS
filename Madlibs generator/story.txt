@@ -1,0 +1,6 @@
+"One day, a very <adjective1> <animal1> was wandering around the <place1>. 
+This wasn’t just any <animal1>, but a creature known for its <adjective2> <body_part>. 
+The <animal1> was feeling <emotion1> because it had lost its precious <object1>.
+
+
+
